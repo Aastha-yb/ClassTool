@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import { getAssignments, getGroup , getUser} from '../../Utils/Common';
+import { getAssignments, getGroup , getUser,formDate} from '../../Utils/Common';
 import "../../styles/groups.css"
 import "../../styles/assignment.css"
 import Grid from "@material-ui/core/Grid";
@@ -186,7 +186,7 @@ function Submission(){
                       </div>
                       <br></br>
                       <div>
-                        <span className="tag">Posted On :</span>{' '} { getAssignments().createdAt}
+                        <span className="tag">Posted On :</span>{' '} { formDate(getAssignments().createdAt)}
                       </div>
                     </div>
                     

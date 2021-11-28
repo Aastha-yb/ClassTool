@@ -84,10 +84,10 @@ export default function Details(){
                         </span>
                     </div>
                     <div className="deets">
-                        <span>Group Code: </span>
-                        <span className="details">
+                        {getUser().role ==="Teacher" &&<span>Group Code: </span>}
+                        {getUser().role ==="Teacher" &&<span className="details">
                             {getGroup().groupCode}
-                        </span>
+                        </span>}
                     </div>
                    
                 </Grid>
