@@ -1,0 +1,77 @@
+.tag{    
+    font-style: oblique;
+    color: #817c7c;
+    margin: 5px 0px;
+    padding: 5px 10px;
+    width: max-content;
+    justify-content: center;
+    text-align: center;
+}
+
+.ans{
+    padding: 0px 5px;
+    font-size: 18px;
+    padding-bottom: 10px;
+    border-bottom: solid 0.15rem #ebeaea;
+}
+
+.subCard{
+    align-content: space-between;
+    height: 100%;
+}
+
+.subDeets{
+    font-size: 15px;
+    color: #817c7c;
+    padding: 0px 5px;
+}
+
+.banner{
+    font-style: oblique;
+}
+
+.update{
+    padding: 10px;
+    justify-content: space-between;
+    background: #f7f7f7;
+    margin: 10px 0px;
+    display: flex;
+}
+
+.update .saveForm{
+    margin: 0;
+    height: 35px;
+    width: 120px;
+    background: #ef5251;
+    padding: 0;
+    border-radius: 3px;
+    color: white;
+}
+
+.objects{
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+}
+
+.alerts{
+    margin-top: 5px;
+}
+
+.alerts .error{
+    color: black;
+}
+.alerts .success{
+    color: black;
+}
+
+.disable{
+    margin: 0;
+    height: 35px;
+    width: 120px;
+    background: #adabab;
+    padding: 0;
+    border-radius: 3px;
+    color: #e7e7e7;
+    border-bottom: none;
+}

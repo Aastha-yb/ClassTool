@@ -1,0 +1,64 @@
+.box{   
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.topic{
+    font-size: 22px;
+    font-weight: 500;
+    text-decoration: underline;
+    margin: 0px 15px;
+}
+
+.marks{
+    background: whitesmoke;
+    padding: 7px 0px;
+    text-align: center;
+}
+
+.ques{
+    background: whitesmoke;
+    padding: 10px;
+}
+.comment{
+    background: whitesmoke;
+    padding: 10px;
+}
+
+.options{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.options .saveForm{
+    width: 200px;
+    background: #f59ca3;
+    border-radius: 5px;
+    font-size: 18px;
+    color: #3f3f3f;
+    transition: all 0.3s ease;
+    border: none;
+    font-family: var(--bs-body-font-family);
+}
+
+.options .saveForm:hover{
+    background: #ef5252;
+    color: whitesmoke;
+}
+.head{
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-style: italic;
+    padding: 15px 10px;
+    font-weight: 400;
+    color: #9f9d9dc4;
+
+}
+
+.head a{
+    text-decoration: none;
+    color: #9f9d9dc4;
+}

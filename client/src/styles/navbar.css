@@ -1,0 +1,45 @@
+.topbar{
+    width : 100%;
+    height : 50px;
+    background-color: #3F3F3F;
+    color : #D8D9DE !important;
+    position: sticky;
+    top:0;
+    z-index: 999;
+}
+
+.topbar .topbarWrapper{
+    background-color: "blue";
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+    color : #EF5252;
+    cursor: pointer;
+    padding: 20px;
+    margin: 20px;
+}
+
+.topRight{
+    display: flex;
+    align-items: center;
+}
+
+.topbarIcons{
+    display: flex;
+    flex-direction: row;
+}
+
+.logout{
+    border: none;
+}
+
+.logout:hover{
+    color : #EF5252;
+}
