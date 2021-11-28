@@ -78,3 +78,15 @@ Server started on port 3000!!!
 
 ### Users
 ![User](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/users.PNG)
+
+### Groups
+![Groups](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/groups.PNG
+
+### StudentGroups
+![StudentGroups](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/studentgroups.PNG)
+
+### Assignments
+![Assignments](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/assignments.PNG
+
+### Submissions
+![Submissions](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/submissions.PNG)
