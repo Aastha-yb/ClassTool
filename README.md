@@ -76,3 +76,5 @@ Server started on port 3000!!!
 
 ## Database Structure
 
+### Users
+![User](https://github.com/Aastha2891/ClassTool/blob/master/screenshots/users.PNG)
