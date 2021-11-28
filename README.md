@@ -49,13 +49,6 @@ The **console** logs the following if the app is running properly
 Server started on port 3000!!!
 ```
 
-## Project Folder Structure
-
-> **Note**: The folder tree does not include sub-directories for common/generated folders. For example - `node_modules`.
-
- - Sub-directories of the folders marked with **' * '** are not shown for clarity.
- - Folders are typed in **bold**
-
 
 ## Features
 ### The app supports following features
